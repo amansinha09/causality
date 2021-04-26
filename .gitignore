@@ -1,3 +1,4 @@
 papers/
 notebooks/.ipynb_checkpoints/
 runs/
+script/__pycache__/
